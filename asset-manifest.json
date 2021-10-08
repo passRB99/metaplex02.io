@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/metaplex02.io/static/css/main.0939a641.chunk.css",
+    "main.js": "/metaplex02.io/static/js/main.e18e57d5.chunk.js",
+    "main.js.map": "/metaplex02.io/static/js/main.e18e57d5.chunk.js.map",
+    "runtime-main.js": "/metaplex02.io/static/js/runtime-main.f4ec4897.js",
+    "runtime-main.js.map": "/metaplex02.io/static/js/runtime-main.f4ec4897.js.map",
+    "static/js/2.f15f365a.chunk.js": "/metaplex02.io/static/js/2.f15f365a.chunk.js",
+    "static/js/2.f15f365a.chunk.js.map": "/metaplex02.io/static/js/2.f15f365a.chunk.js.map",
+    "static/js/3.327d4997.chunk.js": "/metaplex02.io/static/js/3.327d4997.chunk.js",
+    "static/js/3.327d4997.chunk.js.map": "/metaplex02.io/static/js/3.327d4997.chunk.js.map",
+    "index.html": "/metaplex02.io/index.html",
+    "static/css/main.0939a641.chunk.css.map": "/metaplex02.io/static/css/main.0939a641.chunk.css.map",
+    "static/js/2.f15f365a.chunk.js.LICENSE.txt": "/metaplex02.io/static/js/2.f15f365a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ec4897.js",
+    "static/js/2.f15f365a.chunk.js",
+    "static/css/main.0939a641.chunk.css",
+    "static/js/main.e18e57d5.chunk.js"
+  ]
+}
